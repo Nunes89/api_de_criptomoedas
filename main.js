@@ -1,4 +1,4 @@
-var apiKey = {
+const apiKey = {
   key: "sua api key do coinmarketcap",
 };
 
